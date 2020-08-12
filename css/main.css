@@ -120,6 +120,15 @@
   margin-right: 70px;
   
 }
+.footer_greeting{
+  /* margin: 0 auto; */
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-family:'Red Rose', cursive;
+  font-size: 0.8rem;
+}
+
 
 .menu a {
   position: relative;
